@@ -1,0 +1,14 @@
+D:\PROJECTS\.NET\Projects\ozon 6\bin\Debug\net7.0\ozon 6.exe
+D:\PROJECTS\.NET\Projects\ozon 6\bin\Debug\net7.0\ozon 6.deps.json
+D:\PROJECTS\.NET\Projects\ozon 6\bin\Debug\net7.0\ozon 6.runtimeconfig.json
+D:\PROJECTS\.NET\Projects\ozon 6\bin\Debug\net7.0\ozon 6.dll
+D:\PROJECTS\.NET\Projects\ozon 6\bin\Debug\net7.0\ozon 6.pdb
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.AssemblyInfoInputs.cache
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.AssemblyInfo.cs
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.csproj.CoreCompileInputs.cache
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.dll
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\refint\ozon 6.dll
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.pdb
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ozon 6.genruntimeconfig.cache
+D:\PROJECTS\.NET\Projects\ozon 6\obj\Debug\net7.0\ref\ozon 6.dll

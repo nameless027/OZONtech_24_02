@@ -1,0 +1,14 @@
+D:\PROJECTS\.NET\Projects\ozon 3\bin\Debug\net7.0\ozon 3.exe
+D:\PROJECTS\.NET\Projects\ozon 3\bin\Debug\net7.0\ozon 3.deps.json
+D:\PROJECTS\.NET\Projects\ozon 3\bin\Debug\net7.0\ozon 3.runtimeconfig.json
+D:\PROJECTS\.NET\Projects\ozon 3\bin\Debug\net7.0\ozon 3.dll
+D:\PROJECTS\.NET\Projects\ozon 3\bin\Debug\net7.0\ozon 3.pdb
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.AssemblyInfoInputs.cache
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.AssemblyInfo.cs
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.csproj.CoreCompileInputs.cache
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.dll
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\refint\ozon 3.dll
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.pdb
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ozon 3.genruntimeconfig.cache
+D:\PROJECTS\.NET\Projects\ozon 3\obj\Debug\net7.0\ref\ozon 3.dll

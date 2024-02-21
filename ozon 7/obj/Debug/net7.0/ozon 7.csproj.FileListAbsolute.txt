@@ -1,0 +1,14 @@
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\bin\Debug\net7.0\ozon 7.exe
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\bin\Debug\net7.0\ozon 7.deps.json
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\bin\Debug\net7.0\ozon 7.runtimeconfig.json
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\bin\Debug\net7.0\ozon 7.dll
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\bin\Debug\net7.0\ozon 7.pdb
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.AssemblyInfoInputs.cache
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.AssemblyInfo.cs
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.csproj.CoreCompileInputs.cache
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.dll
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\refint\ozon 7.dll
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.pdb
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ozon 7.genruntimeconfig.cache
+D:\PROJECTS\.NET\Projects\OZON tech 2024.02\ozon 7\obj\Debug\net7.0\ref\ozon 7.dll

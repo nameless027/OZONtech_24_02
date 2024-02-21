@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aksmdugx044K022FiEkXM6BM6cLtzV+RKlEi1EIiJO+VJs0pk6MgfJf6zYNVoHkUHo41mhLrw8QMmZWYD6igQQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\.NET\\Projects\\ozon 6\\ozon 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
